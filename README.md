@@ -32,44 +32,47 @@ The widespread use of social media platforms has transformed the way information
 
 ### 3. Methodology:
 
-**Loading the data** - from Kaggle
+  **Loading the data** - from Kaggle
 
-**Exploratory Data Analysis** - Describing the data, column datatypes, nulls, size, etc.
+  **Exploratory Data Analysis** - Describing the data, column datatypes, nulls, size, etc.
 
-**Data Cleaning** - Removing punctuations, dropped columns, data manipulations, removing nulls and getting the Outliers. 
+  **Data Cleaning** - Removing punctuations, dropped columns, data manipulations, removing nulls and getting the Outliers. 
 
-**Data Visualization** - Creating histograms, heatmaps, boxplots, pairplot, and bar graphs. 
+  **Data Visualization** - Creating histograms, heatmaps, boxplots, pairplot, and bar graphs. 
 
-**Label Encoding** - Convert Categorical variables to numerical. 
+  **Label Encoding** - Convert Categorical variables to numerical. 
 
-**Train & Test Split** - Split test and train data as 20% and 80% respectively. 
+  **Train & Test Split** - Split test and train data as 20% and 80% respectively. 
 
-**Feature Importance** - Anova and Random Forest Classifier & selected Top 6 features. 
+  **Feature Importance** - Anova and Random Forest Classifier & selected Top 6 features. 
 
-**Data Modeling** - Trained the Random Forest Classifier & Logistic Regression. 
+  **Data Modeling** - Trained the Random Forest Classifier & Logistic Regression. 
 
-**SMOTE** - Handling of Overfitting
+  **SMOTE** - Handling of Overfitting
 
-**Data Evaluation** - F1 Score, R2 Squared, RMSE, MSE, Accuracy, and Confusion Matric. 
+  **Data Evaluation** - F1 Score, R2 Squared, RMSE, MSE, Accuracy, and Confusion Matric. 
+
+  ![Work_Flow_Chart](https://github.com/melisatahiraj/Project_4/assets/147290574/cb0734e3-e2ca-44d7-9b68-4ed0b40b6d94)
+
 
 ### 4. Expected Outcomes:
 
-* Development of state-of-the-art deep learning models capable of accurately detecting false short-text claims on social media platforms.
+  * Development of state-of-the-art deep learning models capable of accurately detecting false short-text claims on social media platforms.
 
-* Creation of a benchmark dataset for evaluating false claim detection algorithms in the context of social media.
+  * Creation of a benchmark dataset for evaluating false claim detection algorithms in the context of social media.
 
-* Insights into the effectiveness and limitations of different deep learning architectures for this task.
+  * Insights into the effectiveness and limitations of different deep learning architectures for this task.
 
-* Demonstration of the potential for automated detection systems to assist in combating the spread of misinformation online.
+  * Demonstration of the potential for automated detection systems to assist in combating the spread of misinformation online.
 
 
 ### 5. Impact and Significance:
 
-* The project aims to contribute to the ongoing efforts to combat the spread of false information and fake news on social media platforms.
+  * The project aims to contribute to the ongoing efforts to combat the spread of false information and fake news on social media platforms.
 
-* Automated detection systems developed through this project could assist social media platforms, fact-checking organizations, and users in identifying and flagging misleading content.
+  * Automated detection systems developed through this project could assist social media platforms, fact-checking organizations, and users in identifying and flagging misleading content.
 
-* Ultimately, the project seeks to foster a healthier online information ecosystem by empowering users with tools to discern credible information from false claims.
+  * Ultimately, the project seeks to foster a healthier online information ecosystem by empowering users with tools to discern credible information from false claims.
 
 ### 6. Conclusion:
 
