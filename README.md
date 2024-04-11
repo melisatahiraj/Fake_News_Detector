@@ -1,6 +1,8 @@
 
 # FAKE NEWS DETECTION - A Machine Learning Project 
 
+![image](https://github.com/melisatahiraj/Project_4/assets/147290574/1253e92e-a831-4365-bff9-37d296461fcd)
+
 ## Project Team 
 
 | NAME              | SLACK HANDLER  |         GitHub Repo              |
@@ -98,3 +100,94 @@ We could do:
 4. **Putting It into Action**: Figuring out how to use our models on websites and social media could help stop fake news from spreading fast.
 
 >> In the end, our project moves us forward in the fight against fake news. By using machine learning, it is our hope we're getting better at spotting fake stories and making our online world more trustworthy.
+
+## DATA OUTPUTS 
+
+### Feature Selection
+
+  ![image_480_480](https://github.com/melisatahiraj/Project_4/assets/147290574/495e006a-c7aa-4d03-a801-2c45a7c712d1)
+
+  ![image_720](https://github.com/melisatahiraj/Project_4/assets/147290574/b16618a5-9df1-406a-ac43-e978f6cf255c)
+
+  ![image_480_480](https://github.com/melisatahiraj/Project_4/assets/147290574/0ae2c4dd-9fd3-4fdd-9941-f442f67ebd2e)
+
+  ![download_480](https://github.com/melisatahiraj/Project_4/assets/147290574/b6507a2c-e0e0-4715-811a-90e13f701786)
+
+  ![image](https://github.com/melisatahiraj/Project_4/assets/147290574/dff9d9fb-35d3-4a71-afa5-fb0b283cae9c)
+  
+  
+### Random Forest Model 
+
+  ![image](https://github.com/melisatahiraj/Project_4/assets/147290574/b4dd65ed-1350-47ee-b50e-443886773a07)
+
+  ![image_360](https://github.com/melisatahiraj/Project_4/assets/147290574/7e952aea-6ee0-48a2-8786-f1883fb2837a)
+
+  ![download_480](https://github.com/melisatahiraj/Project_4/assets/147290574/6dff682f-caef-42b4-8945-d7ffce7307b1)
+
+### Logistic Regression 
+
+  ![screenshot_2024-04-09_at_11 40 42___pm_480_360](https://github.com/melisatahiraj/Project_4/assets/147290574/1d78e618-ba5d-4d63-8547-bb3cfacbaf4e)
+
+  ![download_360](https://github.com/melisatahiraj/Project_4/assets/147290574/4fc5e0ee-5064-47b0-92d8-284119fdd991)
+
+  ![download_480](https://github.com/melisatahiraj/Project_4/assets/147290574/2328e94f-929b-4be3-9b2d-30153ccaeed5)
+
+### Recurrent Neural Network 
+
+  ![screenshot_2024-04-09_at_11 41 24___pm_480_480](https://github.com/melisatahiraj/Project_4/assets/147290574/a19efe40-e90a-4dad-b4c9-7078f8c3f73a)
+
+  ![screenshot_2024-04-09_at_11 44 33___pm_480_480](https://github.com/melisatahiraj/Project_4/assets/147290574/fb2eab66-9b1d-4d5d-a471-a89d6359bd53)
+
+  ![download_480](https://github.com/melisatahiraj/Project_4/assets/147290574/a9954815-3be6-4684-a095-25c1c00b424f)
+
+### Visualizaton 
+
+  Word Cloud 
+
+   ![screenshot_2024-04-09_at_2 17 58___pm_720](https://github.com/melisatahiraj/Project_4/assets/147290574/1ea59750-4463-453c-81af-1ffb8d6ebccb)   
+   
+   ![screenshot_2024-04-09_at_2 18 07___pm_720](https://github.com/melisatahiraj/Project_4/assets/147290574/a7ec02fc-5a4d-44e3-adf0-731d3332f00f)
+
+  Pairplot 
+
+   ![download_720](https://github.com/melisatahiraj/Project_4/assets/147290574/83176bcd-4ac9-4934-bb0d-fe0894175b98)
+
+# Contributions: 
+
+  ![image_720](https://github.com/melisatahiraj/Project_4/assets/147290574/4a32c42e-261a-481a-bb63-259d50a707ee)
+
+# References: 
+
+  Kaggle - https://www.kaggle.com/datasets/arashnic/fake-claim-dataset
+
+  Michigan University Library - https://guides.lib.umich.edu/c.php?g=283063&p=4471741
+
+  
+
+   
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
