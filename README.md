@@ -33,14 +33,23 @@ The widespread use of social media platforms has transformed the way information
 ### 3. Methodology:
 
 **Loading the data** - from Kaggle
+
 **Exploratory Data Analysis** - Describing the data, column datatypes, nulls, size, etc.
+
 **Data Cleaning** - Removing punctuations, dropped columns, data manipulations, removing nulls and getting the Outliers. 
+
 **Data Visualization** - Creating histograms, heatmaps, boxplots, pairplot, and bar graphs. 
+
 **Label Encoding** - Convert Categorical variables to numerical. 
+
 **Train & Test Split** - Split test and train data as 20% and 80% respectively. 
+
 **Feature Importance** - Anova and Random Forest Classifier & selected Top 6 features. 
+
 **Data Modeling** - Trained the Random Forest Classifier & Logistic Regression. 
+
 **SMOTE** - Handling of Overfitting
+
 **Data Evaluation** - F1 Score, R2 Squared, RMSE, MSE, Accuracy, and Confusion Matric. 
 
 ### 4. Expected Outcomes:
